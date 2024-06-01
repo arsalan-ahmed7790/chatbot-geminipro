@@ -6,9 +6,6 @@ __pycache__/
 # Ignore .env file
 .env
 
-# Ignore __pycache__ directory
-__pycache__/
-
 # C extensions
 *.so
 
